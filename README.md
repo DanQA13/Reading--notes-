@@ -6,8 +6,7 @@
 
 What is Growth mindset?
 
-Growth mindset to me is a frame of mind that you must mainatin in order to be succsessful in whatever you wish to achieve. In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work, brains and talent are just the starting point.
-
+Growth mindset to me is a frame of mind that you must mainatin in order to be succsessful in whatever you wish to achieve. In a growth mindset you should beleive you have the raw talent, grit and determination to succeed in anythibng you put your mind to. 
 # How to maintain a growth mindset
 
 
