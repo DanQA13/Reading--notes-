@@ -10,5 +10,7 @@
 
 ## The Terminal
 
+The terminal is the actual interface to the console that you can type and execute text based commands. Everything we installed today was utilizing the terminal. The terminal gives you a *deeper* connection with your machine and allows you to get more out of your operating systme then just utilizing the user interface. 
+
 
 
