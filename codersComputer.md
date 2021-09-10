@@ -20,7 +20,7 @@ The terminal is the actual interface to the console that you can type and execut
 
 ## Choosing the right text editor for you 
 
-When choosing the right text editor there are alot of things to consider. A few of those things to think about is your level or experience in coding, extensibility
+When choosing the right text editor there are a lot of things to consider. A few of those things to think about is your level or experience in coding, extensibility
 and ergonomics. Your level of coding is important in choosing a text editor because of the type of tools (extensions) you will be using, such as spell check or prettier to help make your job much easier. Ergonomics (how easy or simple it is to use) of the text editor. An ergonomic editor is one that reduces the friction in writing code. If at any point you find yourself bogged down by the text editor then it may be time to reconsider a new text editor. 
 
 ![how-stressful-is-software-development-woz-u-1280x720](https://user-images.githubusercontent.com/84033854/132718023-1559defc-8fcb-422f-8f9e-d869c2b6e966.jpeg)
