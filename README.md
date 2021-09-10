@@ -1,3 +1,22 @@
+#intro
+
+Reading 1
+[Reading 2](codersComputer.md)
+[Reading 3](revisions.md)
+Reading 4
+Reading 5
+Reading 6
+Reading 7
+Reading 8
+
+
+
+
+
+
+
+
+
 # Welcome to My reading notes 
 
 ### Growth Mindset 
