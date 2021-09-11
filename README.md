@@ -3,7 +3,7 @@
 - [Reading 1](README.md) 
 - [Reading 2](codersComputer.md)
 - [Reading 3](revisions.md)
-- Reading 4
+- [Reading 4](day4readingnotes.md)
 - Reading 5
 - Reading 6
 - Reading 7
