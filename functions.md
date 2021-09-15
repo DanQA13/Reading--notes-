@@ -1,5 +1,7 @@
 # Funtcions 
 
+![cool hack theme image](https://miro.medium.com/max/1400/1*fqcYje1plRJWcIggILyuow.png)
+
 A JavaScript function is a block of code designed to perform a particular task.  A JavaScript function is executed when "something" invokes it (calls it).  There are 3 way you can call a function.
 
 * When a user clicks a button 
@@ -9,7 +11,7 @@ A JavaScript function is a block of code designed to perform a particular task. 
 There are many advantages to using functions. A few are you are able to reuse the code, you can use the same code many times with different arguments. 
 it also cleans up for files to be able to read the code more efficiently. Functions are the industry standard and should be understood from a deep level. 
 
-![old school operator](https://blog.container-solutions.com/kubernetes-operators-explained)
+![old school operator](https://blog.container-solutions.com/hubfs/kubernetes_operators.jpg)
 
 # Operators 
 **Operators** are used to perform specific mathematical and logical computations on operands. Operators are used to perform specific mathematical and logical computations on operands. For example 
