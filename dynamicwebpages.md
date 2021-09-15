@@ -30,3 +30,12 @@ Common examples of JavaScript that you might use every day include the search bo
 
 Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages.
 
+# Basic Javascript Code
+
+Inserting JavaScript into a webpage is much like inserting any other HTML content. The tags used to add JavaScript in HTML are <script> and </script>. The code surrounded by the <script> and </script> tags is called a script blog.
+<script> tags can be put between the <head> and </head> tags or between <body> and </body> tags.
+
+type attribute was the most important attribute of <script> tag. However, it is no longer used. Browser understands that <script> tag has JavaScript code inside it.
+
+
+

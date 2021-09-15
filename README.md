@@ -6,7 +6,7 @@
 - [Reading 4](day4readingnotes.md)
 - [Reading 5](cssreading05.md)
 - [Reading 6](dynamicwebpages.md)
-- Reading 7
+- [Reading 7](functions.md)
 - Reading 8
 
 
