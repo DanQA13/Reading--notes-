@@ -7,7 +7,7 @@
 - [Reading 5](cssreading05.md)
 - [Reading 6](dynamicwebpages.md)
 - [Reading 7](functions.md)
-- Reading 8
+- [Reading 8](loops.md)
 
 
 
